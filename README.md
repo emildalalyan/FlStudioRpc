@@ -10,6 +10,6 @@ Simple program, that shows information about FL Studio in Discord, using discord
 This program has been written long ago, so there is no support.
 
 ### Before using
-Go to the FlStudioRpc/RpcHelper.cs and change ApplicationId to the yours app id.
+Go to the FlStudioRpc/RpcHelper.cs and change ApplicationId to the your app id.
 
 You can create the application on the [Discord Developer Portal](https://discord.com/developers/applications)

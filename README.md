@@ -1,5 +1,5 @@
 ## FL Studio RPC
-Simple program, that shows FL Studio information in Discord, using discord-rpc-csharp.
+Simple program, that shows information about FL Studio in Discord, using discord-rpc-csharp.
 
 ### Dependencies
 - Windows Forms

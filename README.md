@@ -1,6 +1,12 @@
 ## FL Studio RPC
 Simple program, that shows information about FL Studio in Discord, using discord-rpc-csharp.
 
+### Usage guide
+- For the beginning, see [Before using](README.md#before-using) section
+- Compile the program, using [Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs)
+- After start, program will open you a dialog, where you have to select FL studio executable
+- All done!
+
 ### Dependencies
 - Windows Forms
 - [DiscordRPC by Lachee](https://github.com/Lachee/discord-rpc-csharp)

@@ -21,6 +21,10 @@ Simple program, that shows information about FL Studio in Discord, using discord
 This program has been written long ago, so there is no support.
 
 ### Before using
-Go to the FlStudioRpc/RpcHelper.cs and change ApplicationId to the your app id.
+- **Step 1**: Go to the FlStudioRpc/RpcHelper.cs and change ApplicationId to the your app id.
+  
+  You can create the application on the [Discord Developer Portal](https://discord.com/developers/applications)
 
-You can create the application on the [Discord Developer Portal](https://discord.com/developers/applications)
+- **Step 2**: Then go to the Rich Presence, upload your image, and rename it to "flicon"
+
+  ![изображение](https://user-images.githubusercontent.com/28574474/212527836-8e271e0f-8673-472f-8e08-c6fbbad4dd37.png)
